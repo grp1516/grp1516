@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Grant Parthasarathy</h1>
+<h3 align="center">🦾American Board Certified Prosthetic and Orthotic Clinician🦿</h3>
+<h3 align="center">Passionate about Research, Data Analytics and Data Science </h3>
+<h3 align="center">🧠Currently learning Python and refining my SQL, R, Tableau and Power BI📚</h3>
 
-<!--
-**grp1516/grp1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6 align="center">"“Live as if you were to die tomorrow; learn as if you were to live forever” - Mahatma Gandhi</h3>
 
-Here are some ideas to get you started:
+<h2 align="center"> My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Sql](http://img.shields.io/badge/Sql-00758f?style=for-the-badge&logo=Mysql&logoColor=white)
+![Python](http://img.shields.io/badge/Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
+![Mysql](http://img.shields.io/badge/My_sql-white?style=for-the-badge&logo=mysql)
+![R](http://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+![Tableau](http://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau)
+![Wordpress](http://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=WordPress)
+![Power BI](http://img.shields.io/badge/power_bi-gray?style=for-the-badge&logo=powerbi)
+![Salesforce](http://img.shields.io/badge/Sales_force-lightblue?style=for-the-badge&logo=salesforce)
+![Googlecloud](http://img.shields.io/badge/Google_cloud-white?style=for-the-badge&logo=Googlecloud)
+![Googleanalytics](http://img.shields.io/badge/Google_analytics-white?style=for-the-badge&logo=Googleanalytics)
+![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+</h2>
+
+<h5 align="center">Visitor's count</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bgrp1516%7D/count.svg" alt="grp1516 :: Visitor's Count" /></p>
+
+
+### 💬 Contact Me
+[![Gmail](https://img.shields.io/badge/-grantparthasarathy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:grantparthasarathy@gmail.com)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grantpartop/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/theofficialgrantp/)
+
+[![Researchgate](https://img.shields.io/badge/-Researchgate-00ccbb?style=for-the-badge&logo=Researchgate&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
+
+[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
+
+
+Credit: [grp1516](https://github.com/grp1516)
+
+Last Edited 05/06/2023
