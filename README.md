@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grant Parthasarathy</h1>
 <h3 align="center">🦾American Board Certified Prosthetic and Orthotic Clinician🦿</h3>
-<h3 align="center">Passionate about Research, Data Analytics and Data Science </h3>
+<h3 align="center">Passions include Research, Data Analytics and Data Science </h3>
 <h3 align="center">🧠Currently learning Python and refining my SQL, R, Tableau and Power BI📚</h3>
 
 <h6 align="center">"“Live as if you were to die tomorrow; learn as if you were to live forever” - Mahatma Gandhi</h3>
