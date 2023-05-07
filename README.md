@@ -30,8 +30,8 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bgrp1516%7D/count.svg" alt="grp1516 :: Visitor's Count" /></p>
 
-
-### 💬 Contact Me
+<h2 align="center"> 💬 Contact Me 
+  
 [![Gmail](https://img.shields.io/badge/-grantparthasarathy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:grantparthasarathy@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grantpartop/)
@@ -41,7 +41,8 @@
 [![Researchgate](https://img.shields.io/badge/-Researchgate-00ccbb?style=for-the-badge&logo=Researchgate&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
 
 [![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
-
+  
+</h2>
 
 Credit: [grp1516](https://github.com/grp1516)
 
