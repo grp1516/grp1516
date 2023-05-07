@@ -16,6 +16,7 @@
 ![Wordpress](http://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=WordPress)
 ![Power BI](http://img.shields.io/badge/power_bi-gray?style=for-the-badge&logo=powerbi)
 ![Salesforce](http://img.shields.io/badge/Sales_force-lightblue?style=for-the-badge&logo=salesforce)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Googlecloud](http://img.shields.io/badge/Google_cloud-white?style=for-the-badge&logo=Googlecloud)
 ![Googleanalytics](http://img.shields.io/badge/Google_analytics-white?style=for-the-badge&logo=Googleanalytics)
 ![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
