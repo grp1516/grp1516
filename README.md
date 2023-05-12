@@ -33,6 +33,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grantpartop/)
 
+[![Tableau](https://img.shields.io/badge/-Tableau_Public-white?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/grant.ram.parthasarathy)
+  
 [![Researchgate](https://img.shields.io/badge/-Researchgate-00ccbb?style=for-the-badge&logo=Researchgate&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
   
 </h2>
