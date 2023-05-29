@@ -43,9 +43,6 @@
   
 [![Gmail](https://img.shields.io/badge/-grantparthasarathy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:grantparthasarathy@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/theofficialgrantp/)
-
-[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://www.researchgate.net/profile/Grant-Parthasarathy)
   
 </h2>
 
