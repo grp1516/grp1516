@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Grant Parthasarathy</h1>
 <h3 align="center">🦾ISPO Certified Level 1 Prosthetic and Orthotic Clinician🦿</h3>
 <h3 align="center">Passions include Research, Data Analytics and Data Science </h3>
+<h3 align="center"> I primarily work in SQL, R, Tableau and Excel, I am proficient in much more </h3>
 <h3 align="center">🧠Currently learning Python and Web Scraping📚</h3>
 
 <h6 align="center">"“Live as if you were to die tomorrow; learn as if you were to live forever” - Mahatma Gandhi</h3>
+
+<h3 align="center"> View my Work 
+  
+  [![Github](https://img.shields.io/badge/-My_Repositories-grey?style=for-the-badge&logo=github)](https://github.com/grp1516?tab=repositories) 
 
 <h2 align="center"> My Skills
 
